@@ -4,7 +4,7 @@
 4. [LAB-04:](https://github.com/karthikeyan0741/AI-ML-2024-BATCH-1/blob/main/Aiml_A04.ipynb)
 5. [LAB-05:](https://github.com/karthikeyan0741/AI-ML-2024-BATCH-1/blob/main/Aiml_lab_05.ipynb)
 6. [LAB-06:](https://github.com/karthikeyan0741/AI-ML-2024-BATCH-1/blob/main/lab06.ipynb)
-7. [LAB-07:]()
+7. [LAB-07:](https://github.com/karthikeyan0741/AI-ML-2024-BATCH-1/blob/main/Lab_07.ipynb)
 8. [LAB-08:]()
 9. [LAB-09:]()
 10.
